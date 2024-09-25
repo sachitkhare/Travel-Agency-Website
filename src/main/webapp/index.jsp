@@ -85,7 +85,7 @@
                  </div>
                     <a href="contactL.jsp" class="nav-item nav-link">Contact</a>
                      </div>
-                <a href="Logou.jsp" class="btn btn-primary rounded-pill py-2 px-4">Logout</a>
+          <!--      <a href="Logou.jsp" class="btn btn-primary rounded-pill py-2 px-4">Logout</a>  -->
             </div>
             <jsp:include page="Header.jsp"></jsp:include>
             </nav>
@@ -97,8 +97,8 @@
                         <h1 class="display-3 text-white animated slideInDown">LOGIN</h1>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb justify-content-center">
-                                <li class="breadcrumb-item"><a href="#">Admin</a></li>
-                                <li class="breadcrumb-item"><a href="#">User</a></li>
+                                <li class="breadcrumb-item"><a href="adminindex">Admin</a></li>
+                                <li class="breadcrumb-item"><a href="">User</a></li>
                             </ol>
                         </nav>
                     </div>
@@ -158,8 +158,8 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-3">Contact</h4>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>966454345</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>sachitkhare9@.com</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
